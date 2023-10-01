@@ -1,0 +1,59 @@
+/* add your CSS here */
+
+.box {
+  		width: 320px; height: 580px; 
+  		border-style: outset; border-color: rgb; 
+  		border-size: 2px;
+}
+
+img {
+  		width: 300px; height: 200px; border-style: none; 				border-width: 310px; 
+		border-color: white; padding: 10px;
+  
+}
+
+.name {
+  		font-size: 14px; font-family: sans-serif;
+		text-align: left; font-weight: bold; 
+  		border-style: none; border-width: 20px; 
+		border-color: white; padding: 10px;
+}
+
+.rectangle { 
+  			width: 290px; height: 260px; 
+  			border-color: rgb; margin: 5px;
+  			border-style: ridge; border-color: rgb; 
+  			padding: 5px;
+}
+
+.facts {
+  		font-size: 14px; font-family: sans-serif;
+		text-align: left; font-style: italic; 
+		border-width: 50px; 
+		border-color: black; padding: 5px;
+}
+
+span {
+  		font-size: 14px; font-family: sans-serif;
+		text-align: left; list-style: none; 
+  		font-weight: bold;
+		border-width: 50px;
+		border-color: black; padding: 2px;
+}
+
+ul {
+	text-align: left;
+}
+li {
+  		font-size: 14px; font-family: sans-serif;
+		list-style: none;
+		border-width: 50px; border-style: none;
+		border-color: white; padding: 2px;
+}
+
+.description {
+  				font-size: 14px; font-family: sans-serif;
+		text-align: left; list-style: none;
+		border-width: 50px; 
+		border-color: black; padding: 5px;
+}
